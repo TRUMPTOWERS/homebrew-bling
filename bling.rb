@@ -1,9 +1,9 @@
 class Bling < Formula
   desc "bling things to your co-workers"
   homepage "https://github.com/TRUMPTOWERS/trump/bling"
-  version "v0.1"
-  url "https://github.com/TRUMPTOWERS/trump/archive/0.1.tar.gz"
-  sha256 "de3ec26e33c427ec6194e6acdf6d8d3a953189aa67b729986a47f12a412fd319"
+  version "v0.2"
+  url "https://github.com/TRUMPTOWERS/trump/archive/0.2.tar.gz"
+  sha256 "b5a5989f4985696ffae9dcadc49466b7b3fbdc3bcddeab08b611685cfa2cda12"
   head "https://github.com/TRUMPTOWERS/trump.git"
 
   depends_on "go" => :build
