@@ -1,5 +1,5 @@
 class Bling < Formula
-  desc "bling things to your co-workers"
+  desc "bling things to your co-workers; does not support ipv6"
   homepage "https://github.com/TRUMPTOWERS/trump/bling"
   version "v0.2"
   url "https://github.com/TRUMPTOWERS/trump/archive/0.2.tar.gz"
