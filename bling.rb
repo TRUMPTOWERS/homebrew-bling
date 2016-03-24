@@ -2,7 +2,7 @@ class Bling < Formula
   desc "bling things to your co-workers; does not support ipv6"
   homepage "https://github.com/TRUMPTOWERS/trump/bling"
   version "v0.2"
-  url "https://github.com/TRUMPTOWERS/trump/archive/0.2.tar.gz"
+  url "https://github.com/TRUMPTOWERS/trump/archive/v0.2.tar.gz"
   sha256 "b5a5989f4985696ffae9dcadc49466b7b3fbdc3bcddeab08b611685cfa2cda12"
   head "https://github.com/TRUMPTOWERS/trump.git"
 
